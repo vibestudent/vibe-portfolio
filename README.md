@@ -74,6 +74,15 @@ portfolio/
 
 ---
 
+## 👾 Explore More
+Discover other AI-powered experiments from the Vibe Student ecosystem:
+- [VIBEcode Game](https://github.com/vibestudent/vibecode-game)
+- [PopupKit](https://github.com/vibestudent/popupkit)
+- [Copilot Advanced Pong](https://github.com/vibestudent/copilot-advanced-pong)
+- [React Calculator App](https://github.com/vibestudent/react-calculator-app)
+
+---
+
 ## 🔗 Connect
 - GitHub – https://github.com/vibestudent  
 - Instagram – https://instagram.com/vibestudent.ai/  
@@ -81,10 +90,10 @@ portfolio/
 
 ---
 
-## 🧩 About
+## 🧩 Creator Note
 Built with **AI assistance** and creative direction — this project is part of the  
 **Vibe Student** ecosystem:
 
-> AI-powered dev experiments  
-> Terminal workflows & automation  
-> Vibecoding everything
+> ⚡ AI-powered dev experiments  
+> 💻 Terminal workflows & automation  
+> 🎧 Vibecoding everything
