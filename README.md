@@ -34,6 +34,29 @@ Open: http://localhost:3000
 
 (If you prefer yarn: replace `npm` with `yarn`.)
 
+> ⚠️ **React Dependency Notice**
+>
+> If you encounter an error like this during installation:
+> ```
+> npm ERR! ERESOLVE unable to resolve dependency tree
+> npm ERR! Found: react@19.x but vaul@0.9.9 requires react@^18
+> ```
+> You can fix it by running one of these commands:
+>
+> **Option 1 (recommended):**
+> ```bash
+> npm install --legacy-peer-deps
+> ```
+>
+> **Option 2 (if you want to stay on React 18):**
+> ```bash
+> npm install react@18 react-dom@18
+> npm install
+> ```
+>
+> This issue occurs because React 19 is newer than what some dependencies (like `vaul`) officially support.  
+> Using the `--legacy-peer-deps` flag ensures smooth local setup without breaking functionality.
+
 ---
 
 ## 📁 Project Structure
@@ -65,10 +88,3 @@ Built with **AI assistance** and creative direction — this project is part of 
 > AI-powered dev experiments  
 > Terminal workflows & automation  
 > Vibecoding everything
-
----
-
-### ✨ Short description (for GitHub repo short bio)
-AI-powered portfolio showcasing fast prototyping, terminal automation, and vibecoded creativity ⚡
-
----
