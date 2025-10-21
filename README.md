@@ -103,7 +103,7 @@ Discover other AI-powered experiments from the Vibe Student ecosystem:
 
 ---
 
-## 🧩 Creator Note
+## 🧩 Creator Not
 
 Built with **AI assistance** and creative direction — this project is part of the
 **Vibe Student** ecosystem:
