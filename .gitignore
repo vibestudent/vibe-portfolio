@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# next.js build
+.next/
+out/
+
+# env files
+.env
+.env.local
+
