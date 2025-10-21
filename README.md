@@ -67,14 +67,6 @@ Open: [http://localhost:3000](http://localhost:3000)
 This portfolio is live at:
 **[https://vibestudent.github.io/vibe-portfolio](https://vibestudent.github.io/vibe-portfolio)**
 
-To deploy to GitHub Pages:
-
-```bash
-npm run deploy
-```
-
-This will build the app and push the `build` folder to the `gh-pages` branch automatically.
-
 ---
 
 ## 📁 Project Structure
