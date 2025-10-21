@@ -43,12 +43,6 @@ Minimal steps to run this project locally:
 
 (If you prefer yarn: replace npm with yarn.)
 
-## 🎨 Customization
-
-- Update the hero text, projects, and social links in `app/page.tsx`.
-- Adjust colors and tokens in `app/globals.css`.
-- Add more projects by extending the `projects` array in `app/page.tsx`.
-
 ## 📁 Project Structure
 
 ````
