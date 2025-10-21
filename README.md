@@ -7,6 +7,13 @@ This repo showcases **AI-first prototyping**, **terminal-driven automation**, an
 
 ---
 
+## 🌐 Deployed on GitHub Pages
+
+This portfolio is live at:
+**[https://vibestudent.github.io/vibe-portfolio](https://vibestudent.github.io/vibe-portfolio)**
+
+---
+
 ## 🧠 Concept
 
 This portfolio isn’t hand-coded in the traditional sense.
@@ -59,13 +66,6 @@ Open: [http://localhost:3000](http://localhost:3000)
 > npm install react@18 react-dom@18
 > npm install
 > ```
-
----
-
-## 🌐 Deployed on GitHub Pages
-
-This portfolio is live at:
-**[https://vibestudent.github.io/vibe-portfolio](https://vibestudent.github.io/vibe-portfolio)**
 
 ---
 
